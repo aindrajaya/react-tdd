@@ -1,70 +1,132 @@
-# Getting Started with Create React App
+<!-- PROJECT SHIELDS -->
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/aindrajaya/react-tdd">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-## Available Scripts
+  <h3 align="center">React TDD</h3>
 
-In the project directory, you can run:
+  <p align="center">
+    React TDD implementation
+    <br />
+    <a href="https://github.com/aindrajaya/react-tdd"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/aindrajaya/react-tdd">View Demo</a>
+    ·
+    <a href="https://github.com/aindrajaya/react-tdd/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/aindrajaya/react-tdd/issues">Request Feature</a>
+  </p>
+</p>
 
-### `yarn start`
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<!-- ABOUT THE PROJECT -->
+## About the React TDD (Test Driven Development)
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur libero turpis, molestie at quam ut, ultrices lobortis dolor. Morbi nibh est, consectetur sed condimentum nec, dignissim a est. Nullam semper, sem ac eleifend fermentum, nisi magna feugiat dui, sit amet pellentesque felis velit a augue. Donec elit arcu, sollicitudin a mattis sit amet, porta non ex. Curabitur faucibus nisl purus, id sollicitudin odio tincidunt molestie. Sed id feugiat enim. Praesent at felis in enim sodales ultrices vel ut sem. Cras aliquet facilisis massa et accumsan. Fusce bibendum urna in luctus semper. Aenean venenatis nec justo rhoncus tristique.
 
-### `yarn test`
+Aliquam erat volutpat. Sed commodo lorem egestas arcu molestie, vitae dictum justo rhoncus. Quisque dignissim nec turpis a eleifend. Morbi consectetur eleifend augue, eget hendrerit justo mollis eu. Pellentesque ante lacus, tincidunt cursus est eu, feugiat ultricies neque. Sed porta pretium felis, eu scelerisque risus ultricies in. Morbi non tempor magna. Suspendisse vestibulum placerat augue, et ornare libero aliquam vel. Nulla pellentesque lectus vel magna dignissim pharetra. In at lacinia ligula, at congue dolor. Sed ac dui faucibus libero lobortis aliquam. Sed tristique felis urna, a ornare lacus convallis eu. Donec lacus est, pulvinar sed posuere id, scelerisque quis dolor. Nullam vel velit tincidunt, consectetur magna cursus, lobortis purus. Aenean sit amet elementum augue.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Built With
+This projects is built with
+* [React](https://reactjs.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [Jest](https://jestjs.io/docs/tutorial-react)
+* [RTL](https://testing-library.com/docs/react-testing-library/intro/)
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- GETTING STARTED -->
+## Getting Started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-### `yarn eject`
+### Prerequisites
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+This is an example of how to list things you need to use the software and how to install them. (if you haven't any `npm` installation before)
+* npm
+  ```sh
+  npm install
+  ```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Installation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+1. Clone the repo
+   ```sh
+   git clone https://github.com/aindrajaya/react-tdd.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Next step to be updated
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- ROADMAP -->
+## Roadmap
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+See the [open issues](https://github.com/aindrajaya/react-tdd/issues) for a list of proposed features (and known issues).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+<!-- CONTACT -->
+## Contact
+Arista - [@Arista_Indra](https://twitter.com/Arista_Indra) - arista.indrajay@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Project Link: [React TDD](https://github.com/aindrajaya/react-tdd)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Img Shields](https://shields.io)
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Pages](https://pages.github.com)
+* [React](https://reactjs.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [Ethereum](https://ethereum.org/en/)
+* [Solidity](https://docs.soliditylang.org/en/v0.8.9/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[stars-shield]: https://img.shields.io/github/stars/aindrajaya/react-tdd.svg?style=for-the-badge
+[stars-url]: https://github.com/aindrajaya/react-tdd/stargazers
+[issues-shield]: https://img.shields.io/github/issues/aindrajaya/react-tdd.svg?style=for-the-badge
+[issues-url]: https://github.com/aindrajaya/react-tdd/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/aindrajaya
+[product-screenshot]: images/screenshot.png
